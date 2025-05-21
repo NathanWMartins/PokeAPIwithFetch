@@ -13,7 +13,7 @@ Aplicativo em React Native que lista Pokémons usando a [PokéAPI](https://pokea
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/pokedex-app.git
+git clone https://github.com/NathanWMartins/PokeAPIwithFetch
 cd pokedex-app
 
 2. Instale as dependências:
