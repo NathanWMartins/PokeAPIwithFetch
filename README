@@ -1,0 +1,31 @@
+# 📱 Pokedex App
+
+Aplicativo em React Native que lista Pokémons usando a [PokéAPI](https://pokeapi.co/), com opção de pesquisa e visualização de detalhes.
+
+## 🚀 Tecnologias
+
+- React Native
+- Expo
+- PokéAPI
+
+## ⚙️ Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/pokedex-app.git
+cd pokedex-app
+
+2. Instale as dependências:
+
+npx expo install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated
+npx expo install @react-navigation/native-stack
+npx expo install react-dom react-native-web @expo/metro-runtime
+
+
+3. Inicie o app:
+
+npx expo start
+
+
